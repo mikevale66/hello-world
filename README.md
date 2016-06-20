@@ -1,3 +1,3 @@
 # hello-world
-Mike.  49.  Dad of 2 boys.  Still a bit of a geek.
+Mike here.  GitHub is a good tool.  Nice to try starting from scratch...
 
