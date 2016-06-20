@@ -1,2 +1,3 @@
 # hello-world
-First GitHub repository.
+Mike here.  GitHub is a good tool.  Nice to try starting from scratch...
+
